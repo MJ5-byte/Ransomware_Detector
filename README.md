@@ -31,7 +31,7 @@ Sure! Below is a **README.md** file that you can use for your **GitHub repositor
 ## **🚀 Installation Guide**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/ransomware_detector.git
+git clone https://github.com/MJ5_byte/ransomware_detector.git
 cd ransomware_detector
 ```
 
